@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Carlos Adrian Rendon Ramos
+Junior Full Stack Developer from San Juan Bautista Tuxtepec, Oaxaca, Mexico.
 
-<!--
-**CarlosR20022/CarlosR20022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering graduate (TecNM Campus Tuxtepec, 2021–2026). I build web systems that are actually used in production.
 
-Here are some ideas to get you started:
+## What I've built
+- **Employee Management System for HR** — Flask, MongoDB, HTML, CSS, JavaScript. In daily use at TecNM Tuxtepec.
+- **Inventory Management System** — PHP, PostgreSQL, HTML, CSS, JavaScript. In daily use at TecNM Tuxtepec.
+- **Web development with a marketing focus** — Professional residency at BWE Agency, Cancún (Jan–Jun 2026).
+- **Freelance systems for private clients** — Gym management, point of sale, task manager.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+Java · Python · JavaScript · PHP · SQL | HTML · CSS | Flask · Laravel | PostgreSQL · MongoDB | REST APIs
+
+## Currently
+Open to remote Junior Full Stack / Backend / Frontend Developer roles (Mexico / LATAM).
+
+## Contact
+- Email: rendonramoscarlosadrian@gmail.com
+- LinkedIn: https://www.linkedin.com/in/carlos-adrian-rendon-ramos
